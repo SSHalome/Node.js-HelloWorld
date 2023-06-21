@@ -5,5 +5,5 @@ git add README.md
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:SSHalome/Node.js-HelloWorld.git
+git remote add origin https://github.com/SSHalome/Node.js-HelloWorld.git
 git push -u origin main
